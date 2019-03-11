@@ -1,0 +1,14 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: mongodb.demo.service
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1/m201
+      port: 27017
+logging:
+  level:
+    root: INFO
+    org.hibernate: INFO
+    

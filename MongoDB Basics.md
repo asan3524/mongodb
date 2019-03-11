@@ -43,6 +43,9 @@ MongoDB的Documents基于json，但比json基础规范支持更多的数据类�
 * date
 * coordinates（object的特例，让MongoDB更方便存储空间地理数据）
 
+更多支持的类型请查阅官方文档
+https://docs.mongodb.com/manual/reference/bson-types/
+
 ## 3. 查询语法
 
   [1]: https://github.com/asan3524
